@@ -61,13 +61,13 @@ Funcionalidades Testadas:
 
 - Localiza a caixa de comentários usando o seletor [data-qa="comment-input"]
 
-- Digita o texto "Excelente aula e material!" no primeiro campo de comentário encontrado
+- Digita o texto "Teste 123" no primeiro campo de comentário encontrado
 
 - Aciona o botão de publicação usando [data-qa=publish-button]
 
 3. Validação de Publicação
 
-- Verifica se o comentário foi criado com sucesso buscando pelo texto "This is a test comment"
+- Verifica se o comentário foi criado com sucesso buscando pelo texto "Teste 123"
 
 4. Limpeza de Dados (Exclusão do Comentário)
 
